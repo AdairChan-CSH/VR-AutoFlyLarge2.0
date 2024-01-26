@@ -20,7 +20,7 @@ look for previous browser in your VR headset
 
 put browser full-screen
 
-uses of third party software "vitrite", press keyboard ctrl+shift+3 to use
+uses of third party software "vitrite", press keyboard ctrl+shift+3(ctrl+shift+5for video) to use
 
 put "vr93.html" transparent as above, both browsers displayed, change below for both videos a little bit to functionable
 
