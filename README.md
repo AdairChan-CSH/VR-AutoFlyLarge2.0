@@ -1,4 +1,4 @@
-Heal their usage of old VR heatset with direct display VR mod for all games. Virtual Reality Auto depth VR prediction, precedion, AI
+Heal their usage of old VR heatset with direct display VR mod for all games. Virtual Reality Auto depth VR prediction, precedion, AI, convertor
 
 VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC This program app can do auto (VR depth) immersive for all computer screen videos, games, (needed direct display headset), low requirements, low overhead
 
@@ -20,7 +20,7 @@ look for previous browser in your VR headset
 
 put browser full-screen
 
-uses of third party software "vitrite", press keyboard ctrl+shift+3(ctrl+shift+4for video) to use, (or try ctrl+shift+7 video with screen recorder)
+uses of third party software "vitrite", press keyboard ctrl+shift+3(ctrl+shift+4for video) to use, (or try ctrl+shift+7 video with screen recorder, or even move files to play in your quest)
 
 put "vr93.html" transparent as above, both browsers displayed, change below for both videos a little bit to functionable
 
