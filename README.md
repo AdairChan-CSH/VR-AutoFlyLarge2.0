@@ -23,6 +23,7 @@ put browser full-screen
 uses of third party software "vitrite", press keyboard ctrl+shift+3(ctrl+shift+4for video) to use, (or try ctrl+shift+7 video with screen recorder, or even move files to play in your quest)
 
 put "vr93.html" transparent as above, both browsers displayed, change below for both videos a little bit to functionable
+move right or left
 
 enjoy pain-free VR desktop without crashing to any StreamVR bugs!
 
